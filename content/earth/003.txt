@@ -1,0 +1,74 @@
+# Earth — batch 3: countries, places & geography
+Russia is the largest country by area, spanning both Europe and Asia.
+Vatican City is the smallest country in the world, at less than half a square kilometre.
+India is the seventh-largest country by area.
+The Indian Ocean is the only ocean named after a country.
+The Tropic of Cancer passes through eight Indian states.
+India's southernmost point, Indira Point, is in the Andaman and Nicobar Islands.
+Kanyakumari is where the Arabian Sea, the Bay of Bengal and the Indian Ocean meet.
+At Kanyakumari, on some days, you can watch the sun rise and set over the sea.
+Arunachal Pradesh gets one of India's earliest sunrises.
+Ladakh is a cold desert, with some places getting very little rainfall.
+Chilika Lake in Odisha is the largest coastal lagoon in India.
+The Andaman Islands have India's only active volcano, on Barren Island.
+Lakshadweep is made of coral islands.
+The Thar Desert spreads across Rajasthan and into Pakistan.
+The Godavari is the longest river in peninsular India.
+Mount Everest sits on the border of Nepal and China (Tibet).
+Everest's height was officially updated to 8,848.86 metres in 2020.
+Nepal's flag is the only national flag that isn't a rectangle.
+Bhutan measures its success with Gross National Happiness.
+Bhutan is often described as carbon-negative, absorbing more carbon than it emits.
+Indonesia has more than 17,000 islands.
+The Philippines has more than 7,000 islands.
+Australia is both a country and a continent.
+Africa has 54 countries, more than any other continent.
+Africa is the only continent that lies in all four hemispheres.
+Canada has more lakes than the rest of the world combined, by some counts.
+Finland has around 188,000 lakes.
+Norway's fjords were carved by glaciers.
+Ireland has no native snakes.
+New Zealand has more sheep than people.
+Monaco is so small and dense that it has almost no farmland at all.
+Mongolia is the least densely populated country in the world.
+Bangladesh is one of the most densely populated countries on Earth.
+Brazil is home to most of the Amazon rainforest.
+Chile is over 4,000 km long but, on average, only about 175 km wide.
+Peru's Lake Titicaca, shared with Bolivia, is one of the highest navigable lakes in the world.
+Bolivia's Salar de Uyuni is the largest salt flat on Earth. After rain, it becomes a giant mirror.
+La Paz in Bolivia is one of the highest capital cities in the world, at about 3,600 metres.
+Ecuador is named after the equator, which runs through it.
+Mexico City is slowly sinking because of groundwater being pumped out.
+Venice is built on more than 100 small islands connected by bridges.
+Istanbul is one of the few cities that sits on two continents, Europe and Asia.
+Egypt's population mostly lives along the Nile, on a small fraction of the country's land.
+The Sahara was green with lakes and grasslands thousands of years ago.
+The Dead Sea is shrinking, dropping by around a metre a year.
+Japan has thousands of earthquakes every year.
+Japan is made up of more than 14,000 islands, according to a recent count.
+Singapore is both a city and a country.
+China uses just one time zone, despite being about as wide as the USA.
+The USA and Russia are only about 4 km apart at their closest, across the Bering Strait.
+Alaska was bought by the USA from Russia in 1867.
+Greenland is mostly covered by ice, even though its name suggests otherwise.
+Antarctica has no permanent human residents, only researchers who rotate.
+Antarctica contains about 90% of the world's ice.
+The South Pole sits on a sheet of ice about 2.7 km thick.
+The North Pole has no land underneath. It's floating sea ice.
+Lake Superior is the largest freshwater lake by area.
+The Caspian Sea is the largest inland body of water on Earth, and it's actually a lake.
+The Amazon River has no bridges across its main stretch.
+The Danube flows through or along the borders of 10 countries, more than any other river.
+The Mekong flows through six countries in Asia.
+Mount Everest isn't the tallest mountain from base to peak. Mauna Kea in Hawaii is.
+Mount Chimborazo in Ecuador is the closest point on Earth to the Moon and the stars, because of Earth's bulge.
+The Andes are the longest mountain range above water, running down South America.
+The Alps stretch across eight countries.
+Scotland has more than 790 islands.
+The Netherlands has a large part of its land below sea level, protected by dikes.
+Bangkok's full ceremonial name is one of the longest place names in the world.
+Australia's Great Dividing Range is one of the longest mountain ranges on land.
+Uluru in Australia is a giant sandstone monolith, sacred to the Aboriginal Anangu people.
+The Gobi Desert is expanding, partly because of climate and land use.
+The Arabian Peninsula is the largest peninsula in the world.
+The Indian subcontinent was once an island drifting north across the ocean.

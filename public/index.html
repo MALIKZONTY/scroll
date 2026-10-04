@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Connect — pickup lines, love quotes and mind-blowing facts</title>
+<meta name="description" content="Scroll an endless feed of pickup lines, love and heartbreak quotes, relatable posts and mind-blowing facts about space, Earth, time and animals. Like, save and share as images.">
+<meta name="theme-color" content="#0b0b0f">
+<meta property="og:title" content="Connect">
+<meta property="og:description" content="An endless feed of pickup lines, quotes and mind-blowing facts.">
+<meta property="og:type" content="website">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Playfair+Display:ital,wght@1,600&family=Caveat:wght@700&family=Space+Grotesk:wght@700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+<script src="/config.js"></script>
+<!-- Monetag: paste the site-wide tags from your Monetag dashboard (popunder, in-page push, etc.) here. -->
+</head>
+<body>
+<div class="ptr" id="ptr"><div class="ptr-spin"></div></div>
+
+<aside class="side">
+  <button class="logo" data-refresh>Connect</button>
+  <nav class="side-tabs" id="side-tabs"></nav>
+</aside>
+
+<header class="top">
+  <div class="top-bar">
+    <button class="logo" data-refresh>Connect</button>
+    <button class="icon-btn" data-refresh aria-label="Refresh feed">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.6-6.4M21 4v5h-5"/></svg>
+    </button>
+  </div>
+  <nav class="tabs" id="tabs"></nav>
+</header>
+
+<main class="feed" id="feed" aria-live="polite"></main>
+<div id="sentinel"></div>
+<div class="toast" id="toast" role="status"></div>
+
+<script src="/app.js"></script>
+</body>
+</html>

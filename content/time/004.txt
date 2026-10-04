@@ -1,0 +1,78 @@
+# Time & universe — batch 4: history of time, calendars & clocks
+Ancient Egyptians divided day and night into 12 hours each. That's partly why we have 24 hours.
+We have 60 minutes in an hour because of the ancient Babylonians, who counted in base 60.
+The Babylonian base-60 system is also why a circle has 360 degrees.
+Sundials were among the first clocks, used thousands of years ago.
+Water clocks, called clepsydras, measured time by how fast water dripped.
+Hourglasses were used on ships to measure time and speed.
+Mechanical clocks appeared in Europe in the late 1200s.
+Early clocks often had only an hour hand.
+The pendulum clock, developed by Christiaan Huygens in 1656, made clocks far more accurate.
+Before standard time, every town set its clocks by its own local noon.
+Greenwich Mean Time became the world's reference in the 1880s.
+The Prime Meridian passes through Greenwich in London.
+Indian Standard Time is based on a meridian passing near Mirzapur in Uttar Pradesh.
+Before IST, India had separate Bombay Time and Calcutta Time.
+Daylight saving time was proposed partly to save energy. India doesn't use it.
+Some countries have time zones offset by 30 or 45 minutes, like India and Nepal.
+Nepal's time zone is 5 hours and 45 minutes ahead of UTC.
+The International Date Line zigzags to avoid splitting countries into two days.
+You can celebrate New Year twice by flying east across the Date Line on New Year's Eve.
+Samoa skipped 30 December 2011 entirely when it moved across the Date Line.
+Kiribati is among the first places on Earth to welcome each new year.
+A "week" of seven days likely comes from the seven visible moving objects in the sky: Sun, Moon and five planets.
+Many weekday names come from those sky objects. "Sunday" is the Sun's day and "Monday" the Moon's.
+In Hindi, weekdays are named after celestial bodies too: Ravivar for the Sun, Somvar for the Moon.
+The month of July is named after Julius Caesar, and August after Augustus.
+September, October, November and December mean seven, eight, nine and ten in Latin. They were once months 7 to 10.
+The Roman calendar originally had just 10 months.
+February has 28 days partly because of Roman superstitions about even numbers.
+India's national calendar, the Saka calendar, was officially adopted in 1957 alongside the Gregorian calendar.
+Many Indian festivals follow lunar or lunisolar calendars, so their dates shift each year.
+The Islamic calendar is lunar, so its months move through the seasons over about 33 years.
+The Chinese calendar names each year after one of 12 animals.
+The Mayan calendar didn't predict the end of the world in 2012. It just started a new cycle.
+A year isn't exactly 365.25 days. It's about 365.2422 days.
+Without leap years, the calendar would drift by about a day every four years.
+People born on 29 February only get a true birthday every four years.
+The chance of being born on 29 February is about 1 in 1,461.
+The year 2100 will not be a leap year.
+A decade, a century and a millennium are 10, 100 and 1,000 years.
+The 21st century technically began on 1 January 2001, not 2000, because there was no year zero.
+There's no year 0 in the Gregorian calendar. 1 BCE is followed by 1 CE.
+Atomic clocks keep time using the vibrations of atoms.
+The world's official time, UTC, is calculated from hundreds of atomic clocks around the world.
+Leap seconds are being phased out by 2035, according to an international decision in 2022.
+Earth's rotation has recently sped up slightly, giving some of the shortest days on record.
+The shortest day measured by atomic clocks, in 2022, was about 1.6 milliseconds shorter than 24 hours.
+A big earthquake can very slightly change the length of Earth's day.
+The 2011 Japan earthquake shortened the day by about 1.8 microseconds, by one estimate.
+Melting glaciers can change Earth's spin very slightly, a bit like a figure skater moving their arms.
+Your phone's clock syncs with highly accurate time servers on the internet.
+GPS satellites carry atomic clocks on board.
+Computers count time as the number of seconds since 1 January 1970 in many systems. It's called Unix time.
+Some old computer systems will run out of numbers to count time in 2038. It's called the Year 2038 problem.
+The Y2K bug worried the world in 1999 because many computers stored years with only two digits.
+Clocks in films and adverts are often set to about 10:10 because it looks like a smile and frames the logo.
+Big Ben is actually the name of the bell, not the clock tower.
+The clock tower housing Big Ben was renamed the Elizabeth Tower in 2012.
+Rajabai Clock Tower in Mumbai was modelled on Big Ben.
+Some animals and plants have internal clocks so precise they can track time without seeing the sun.
+Your body clock runs on a cycle of roughly 24 hours, called a circadian rhythm.
+The 2017 Nobel Prize in Medicine was awarded for discoveries about how our body clocks work.
+Jet lag happens when your body clock is out of sync with local time.
+Flying east usually causes worse jet lag than flying west.
+Time can feel slower when you're scared, but experiments suggest your brain doesn't actually process faster. It just remembers more.
+Time feels faster as we age, partly because each year is a smaller fraction of your life.
+A minute of plank feels much longer than a minute of scrolling.
+You can't tickle time, save it in a box or get it back. But you can choose how to spend it.
+Some cultures see time as a cycle rather than a straight line.
+In Hindu cosmology, time moves in vast cycles called yugas.
+A "kalpa" in Hindu cosmology is said to last 4.32 billion years, curiously close to Earth's age.
+The phrase "once in a blue moon" refers to a rare extra full moon.
+A blue moon happens roughly every two to three years.
+A "fortnight" is two weeks, from the old English "fourteen nights."
+A "moment" was once a medieval unit of time equal to about 90 seconds.
+The word "hour" comes from the Greek "hora," meaning season or time.
+"Calendar" comes from the Latin "kalendae," the first day of the Roman month.
+"Clock" comes from words for "bell," because early clocks rang bells instead of showing a face.

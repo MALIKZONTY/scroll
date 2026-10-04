@@ -1,0 +1,77 @@
+# Time & universe — batch 3: physics & weirdness
+In quantum physics, particles can behave like waves and waves like particles.
+In the double-slit experiment, single particles create an interference pattern, as if they went through both slits.
+Quantum entanglement links particles so that measuring one instantly tells you about the other, no matter how far apart they are.
+Einstein called entanglement "spooky action at a distance."
+Entanglement can't be used to send messages faster than light.
+Heisenberg's uncertainty principle says you can't know both a particle's exact position and its exact momentum.
+Quantum tunnelling lets particles pass through barriers they "shouldn't" be able to cross. It helps power the Sun.
+Without quantum tunnelling, the Sun's core wouldn't be hot enough for fusion to happen at its current rate.
+Empty space isn't truly empty. It's filled with fleeting quantum fluctuations.
+Schrödinger's cat was a thought experiment meant to show how strange quantum ideas seem at everyday scales.
+Electrons don't orbit atoms like tiny planets. They exist in fuzzy clouds of probability.
+Atoms are mostly empty space, but the electromagnetic force stops you from passing through walls.
+When you touch something, your atoms never truly touch its atoms. Electric forces push them apart.
+Every atom of gold, oxygen or carbon is identical to every other atom of the same type.
+The speed of light is exactly 299,792,458 metres per second. The metre is defined by it.
+Light slows down in water and glass. That's why things look bent in a glass of water.
+Nothing can travel faster than light through space, but space itself can expand faster.
+A photon of light doesn't experience time, according to relativity.
+If you travelled near the speed of light for a while and came back, more time would have passed on Earth than for you.
+This "twin paradox" has been tested with atomic clocks flown on aeroplanes.
+Muons created in the upper atmosphere reach the ground only because time dilation lets them live longer than expected.
+Your head ages slightly faster than your feet, because gravity is a tiny bit weaker higher up.
+The difference between your head and feet ageing over a lifetime is less than a millionth of a second.
+Mass and energy are two forms of the same thing.
+Most of the mass of an atom comes from the energy binding its quarks together, not from the quarks themselves.
+The Higgs boson, discovered in 2012, is linked to how particles get mass.
+The Large Hadron Collider is a 27 km ring buried under the border of France and Switzerland.
+The LHC is one of the coldest places in the universe, cooled to about −271 °C.
+Antimatter is real. When it meets regular matter, both are destroyed in a burst of energy.
+Hospitals use antimatter every day in PET scans.
+Physicists still don't know why the universe has more matter than antimatter.
+Bananas are slightly radioactive because they contain potassium.
+You're slightly radioactive too, for the same reason.
+There are four known fundamental forces: gravity, electromagnetism, the strong force and the weak force.
+Gravity is by far the weakest force. A small magnet can lift a paperclip against the whole Earth's gravity.
+Nobody has yet joined gravity and quantum physics into one theory.
+String theory suggests that the smallest building blocks might be tiny vibrating strings, but it hasn't been proven.
+Some theories propose that our universe might be one of many, a multiverse. There's no evidence yet.
+Time might be made of tiny units, but nobody knows. The smallest meaningful time is thought to be the Planck time.
+The Planck time is about 10⁻⁴³ seconds, unimaginably short.
+A second contains more Planck times than the age of the universe contains seconds, by a gigantic margin.
+Physics equations mostly work the same forwards and backwards in time. Yet we only experience one direction.
+Ice melts, eggs break and rooms get messy because disorder, called entropy, tends to increase.
+The universe started in a state of very low entropy, and nobody knows why.
+Sound travels about four times faster in water than in air.
+Sound can't travel through space, but light can.
+Plasma is the most common state of visible matter in the universe. Stars are made of it.
+Glass is an amorphous solid, with atoms arranged randomly like a frozen liquid.
+Water expands when it freezes, which is why ice floats.
+If ice didn't float, lakes would freeze from the bottom up and much life couldn't survive winter.
+Diamond and graphite, the stuff in pencils, are both pure carbon. Only their structure is different.
+Helium can become a "superfluid" that climbs up the walls of its container.
+At very low temperatures, some materials become superconductors with zero electrical resistance.
+Superconducting magnets can make objects float in mid-air.
+The Northern Lights happen when particles from the Sun hit our atmosphere, a bit like a neon sign.
+A spoon in hot tea gets hot because fast-moving particles bump into slower ones and share energy.
+Heat always flows from hot things to cold things, never the other way on its own.
+A perfect perpetual motion machine is impossible because of the laws of thermodynamics.
+Magnets work because of the way electrons spin and move.
+Earth itself is a giant magnet, which is why compasses point north.
+Earth's magnetic north pole is slowly wandering across the Arctic.
+Radio waves, visible light and X-rays are all the same thing, electromagnetic waves, just with different wavelengths.
+Humans can see only a tiny slice of the electromagnetic spectrum.
+Bees can see ultraviolet light, which reveals hidden patterns on flowers.
+Rainbows contain colours beyond what we can see, in infrared and ultraviolet.
+The sky is blue because air scatters blue light from the Sun more than red light.
+Sunsets are red and orange because sunlight travels through more air, scattering away the blue.
+On the Moon, the sky is black even in daytime because there's no air to scatter light.
+Clouds are white because water droplets scatter all colours of light equally.
+A mirror doesn't actually flip left and right. It flips front and back.
+The colour you see is the colour an object reflects, not the colour it absorbs.
+Black objects get hotter in the sun because they absorb all colours of light.
+Microwaves heat food by making water molecules jiggle.
+Your phone's GPS relies on Einstein's theories to be accurate.
+Solar panels work because light can knock electrons free, an effect Einstein explained. It won him the Nobel Prize.
+Einstein won his Nobel Prize for explaining the photoelectric effect, not for relativity.

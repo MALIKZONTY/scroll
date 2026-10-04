@@ -1,0 +1,86 @@
+# Space — batch 6: Sun, Moon, Earth & sky-watching basics
+The Sun is a nearly perfect sphere.
+The Sun is made mostly of hydrogen and helium.
+The Sun spins faster at its equator than at its poles, because it's not solid.
+The Sun takes about 25 days to spin once at its equator.
+The Sun's surface temperature is about 5,500 °C.
+The Sun produces energy by fusing hydrogen into helium.
+The Sun is so massive that it holds the whole solar system together with its gravity.
+The Sun's gravity reaches far beyond Pluto, holding the Oort Cloud in orbit.
+Without the Sun, Earth's surface would freeze within weeks to months.
+Solar eclipses can only happen at new moon. Lunar eclipses can only happen at full moon.
+We don't get an eclipse every month because the Moon's orbit is tilted.
+A total solar eclipse is visible from any given place only once every few hundred years, on average.
+During a total solar eclipse, the temperature can drop noticeably and birds may go quiet.
+An annular eclipse happens when the Moon is too far away to cover the Sun completely, leaving a "ring of fire."
+The Moon's phases happen because we see different amounts of its sunlit side.
+A "supermoon" is a full moon that happens near the Moon's closest approach to Earth.
+A supermoon can look about 14% bigger and 30% brighter than a full moon at its farthest point.
+The Moon looks bigger near the horizon, but that's an illusion. Its size doesn't change.
+The Moon's craters are mostly from ancient impacts, preserved because there's no weather.
+The Moon has no global magnetic field today.
+The Moon causes most of Earth's ocean tides.
+The Moon rises about 50 minutes later each day, on average.
+A "waxing" moon is growing; a "waning" moon is shrinking.
+Earth's shadow is visible at sunset as a dark blue band on the opposite horizon, called the Earth's shadow, topped by a pink "Belt of Venus."
+Earthshine is when sunlight reflects off Earth and faintly lights up the dark part of the Moon.
+You can see the ISS, satellites and even Starlink trains with your naked eye on clear nights.
+Satellites are visible because they reflect sunlight, usually just after sunset or before sunrise.
+A "planet parade" is when several planets appear lined up across the sky.
+Mercury is hard to see because it's always close to the Sun in our sky.
+Mars appears reddish to the naked eye, even from Earth.
+Saturn looks like a steady golden star to the naked eye.
+Uranus can be just barely seen with the naked eye in very dark skies, if you know exactly where to look.
+Neptune can't be seen without a telescope.
+The zodiacal light is a faint glow of sunlight scattered by dust in the solar system, seen after dusk or before dawn.
+Light pollution makes it hard to see the Milky Way from most cities.
+Ladakh's Hanle has India's first Dark Sky Reserve.
+The Indian Astronomical Observatory at Hanle is one of the highest observatories in the world.
+Your eyes take about 20 to 30 minutes to fully adjust to the dark.
+Using red light helps you keep your night vision while stargazing.
+Binoculars can show you craters on the Moon and Jupiter's moons.
+The best meteor showers can produce dozens of meteors an hour in dark skies.
+Meteors usually burn up about 80 to 120 km above the ground.
+Fireballs are especially bright meteors, sometimes brighter than Venus.
+Sky-watchers in ancient India named the 27 nakshatras, or lunar mansions.
+Jantar Mantar in Jaipur has the world's largest stone sundial, accurate to about 2 seconds.
+Jantar Mantar observatories were built by Maharaja Jai Singh II in the 1700s.
+Aryabhata proposed that Earth rotates on its axis, around 499 CE.
+India's first satellite, Aryabhata, was launched in 1975.
+ISRO stands for the Indian Space Research Organisation, founded in 1969.
+Vikram Sarabhai is considered the father of the Indian space programme.
+India's first rocket launch, in 1963, was from Thumba, near Thiruvananthapuram.
+Sriharikota in Andhra Pradesh is home to ISRO's main launch centre.
+NASA was founded in 1958.
+The European Space Agency was founded in 1975.
+The first image of Earth from space was taken in 1946 from a rocket.
+"Earthrise," taken by Apollo 8 in 1968, is one of the most famous photos ever taken.
+"The Blue Marble" photo was taken by the Apollo 17 crew in 1972.
+From the Moon, Earth looks about four times wider than the Moon looks from Earth.
+Earth doesn't rise and set in the sky as seen from the Moon's near side. It stays in roughly the same spot.
+A year on Earth is about 365.25 days, which is why we have leap years.
+Earth isn't the same distance from the Sun all year. Its orbit is slightly oval.
+Earth moves fastest in its orbit in early January, when it's closest to the Sun.
+The seasons are opposite in the Northern and Southern Hemispheres.
+On the equinoxes, day and night are nearly equal everywhere.
+The summer solstice in the Northern Hemisphere is the longest day of the year, around 21 June.
+At the North Pole, there's one long day and one long night each year.
+Earth's atmosphere protects us from most meteors and harmful radiation.
+Earth's magnetic field creates the aurora by guiding solar particles towards the poles.
+Strong solar storms can push auroras far from the poles. In 2024, auroras were seen as far south as Ladakh.
+Earth spins at about 1,670 km/h at the equator, but you don't feel it because everything moves with you.
+If Earth stopped spinning suddenly, everything not attached to bedrock would be flung eastward. Luckily, that can't happen.
+Earth is the only planet in the solar system with liquid water on its surface.
+Earth is the only planet known to have life.
+Earth is the fifth-largest planet in the solar system.
+Earth's orbit around the Sun is about 940 million km long.
+There are thousands of pieces of tracked space debris larger than a softball orbiting Earth.
+The Kessler syndrome is a scenario where space debris collisions cause a chain reaction.
+The first piece of space debris was Sputnik's rocket body, in 1957.
+Some satellites are placed in geostationary orbit, about 36,000 km up, where they stay over the same spot.
+GPS uses about 30 satellites orbiting about 20,000 km above Earth.
+India's NavIC is its own regional satellite navigation system.
+India's INSAT satellites help with weather forecasting and TV broadcasting.
+Weather satellites let forecasters track cyclones days before landfall.
+Satellites can measure sea level, forest cover and even crop health from space.
+Some satellites can see objects smaller than a metre from orbit.

@@ -1,0 +1,78 @@
+# Time & universe — batch 1 (well-established physics and cosmology)
+Sunlight takes about 8 minutes to reach you. Every time you see the Sun, you're looking 8 minutes into the past.
+Time runs slightly faster on a mountaintop than at sea level. Gravity slows time.
+GPS satellites have to correct for relativity every day. Without it, positions would drift by about 10 km a day.
+Clocks on GPS satellites tick about 38 microseconds a day faster than clocks on the ground.
+The faster you move, the slower time passes for you compared with someone standing still. It's called time dilation.
+Astronauts on the ISS age very slightly slower than people on Earth, by a few thousandths of a second over six months.
+Nothing with mass can travel as fast as light in a vacuum.
+Light travels about 300,000 kilometres every second. It could circle Earth about 7.5 times in one second.
+Light from the Moon takes about 1.3 seconds to reach Earth. You see the Moon as it was a moment ago.
+When you look at the Andromeda Galaxy, you're seeing light that left it about 2.5 million years ago.
+The universe began about 13.8 billion years ago with the Big Bang.
+The universe is expanding, and that expansion is speeding up.
+Distant galaxies are moving away from us faster than light. Space itself is stretching, so it doesn't break the speed limit.
+The faint glow left over from the Big Bang, the cosmic microwave background, is everywhere in the sky.
+Some of the static on an old analogue TV came from the cosmic microwave background, the afterglow of the Big Bang.
+For the first roughly 380,000 years, the universe was so hot and dense that light couldn't travel freely.
+The first stars probably formed a few hundred million years after the Big Bang.
+The atoms in your body were forged in stars that exploded long before the Sun existed. You are literally made of star stuff.
+The iron in your blood was made inside dying stars.
+Gold on Earth was likely created in violent events like colliding neutron stars.
+If you compressed all of human history into one 24-hour day of Earth's history, humans would appear in the last few seconds.
+If Earth's whole history were one calendar year, dinosaurs would vanish around 26 December and humans would show up on 31 December, late in the evening.
+A second is officially defined by vibrations of the caesium atom: 9,192,631,770 of them.
+Atomic clocks are so accurate they would lose less than a second in millions of years.
+The best optical clocks are so precise they can detect the change in time when lifted just a few centimetres higher.
+Leap seconds have been added to clocks every so often because Earth's rotation isn't perfectly steady.
+We add a leap day almost every four years because a year is about 365.24 days long.
+Years divisible by 100 aren't leap years, unless they're also divisible by 400. That's why 2000 was a leap year but 1900 wasn't.
+Black holes stretch time. Near one, time would pass much more slowly than far away.
+At the event horizon of a black hole, light can't escape no matter what.
+Black holes slowly lose energy through Hawking radiation, but for big ones it would take far longer than the current age of the universe.
+Gravitational waves are ripples in space and time. They were first detected directly in 2015.
+The gravitational waves detected in 2015 came from two black holes that collided over a billion years ago.
+The Sun's light you see today left its surface about 8 minutes ago, but the energy was created deep in its core long before that.
+Stars you see at night might not even exist anymore. Their light could still be travelling to you.
+The Big Bang wasn't an explosion in space. It was the expansion of space itself.
+There is no centre of the universe. Everything is moving away from everything else.
+The observable universe is about 93 billion light-years across, but the whole universe could be much larger, or infinite.
+In about 4 to 5 billion years, the Milky Way and Andromeda are expected to merge into one giant galaxy.
+Time doesn't flow the same everywhere. Physicists say there's no single "now" for the whole universe.
+Two people moving differently can disagree about whether two events happened at the same time, and both be right.
+Space and time are linked into one thing: spacetime.
+Mass bends spacetime, and that bending is what we feel as gravity.
+Even light bends when it passes heavy objects like galaxies. It's called gravitational lensing.
+Einstein's E = mc² means a tiny amount of mass holds a huge amount of energy.
+The Sun turns about 4 million tonnes of its mass into energy every second.
+Absolute zero, −273.15 °C, is the coldest temperature possible.
+Most of an atom is empty space.
+If an atom were the size of a football stadium, its nucleus would be about the size of a pea in the centre.
+Every second, trillions of neutrinos from the Sun pass through your body without touching anything.
+There are more possible orders for a deck of 52 cards than there are atoms on Earth.
+A shuffled deck of cards is almost certainly in an order that has never existed before in history.
+Your body replaces many of its cells over time, but not all of them. Some brain and heart cells stay with you for life.
+Scientists think the universe may keep expanding forever, getting colder and darker over unimaginably long times.
+The time it takes light to cross the Milky Way is about 100,000 years.
+It would take Voyager 1 tens of thousands of years just to pass the nearest star.
+The universe has no edge that we know of.
+The early universe was smooth, but tiny ripples grew into all the galaxies we see today.
+The Sun is just one of hundreds of billions of stars in the Milky Way.
+There are likely hundreds of billions of galaxies, perhaps up to two trillion, in the observable universe.
+The light from the most distant galaxies seen by the James Webb Space Telescope left them more than 13 billion years ago.
+The word "planet" comes from a Greek word meaning "wanderer," because planets wander across the sky.
+Calendars once disagreed so much that when Britain switched to the Gregorian calendar in 1752, it skipped 11 days.
+The Julian calendar drifted by about one day every 128 years. That's why it was replaced.
+A day on Earth used to be shorter. Earth's spin is slowly slowing down because of the Moon's tides.
+The Moon's tides are slowly lengthening Earth's day, by a tiny fraction of a millisecond each century.
+Time zones only became standard in the late 1800s, largely because of railway schedules.
+India uses a single time zone, five and a half hours ahead of UTC.
+Clocks run "clockwise" because they copied the way a sundial's shadow moves in the Northern Hemisphere.
+The universe is so old, yet the first humans appeared only about 300,000 years ago.
+If you could travel at light speed, from your point of view the trip would take no time at all.
+Physicists still don't fully know what time is. It's one of science's biggest open questions.
+Entropy, the tendency of things to get more disordered, is one reason time seems to have a direction.
+You can remember the past but not the future, and physicists link that to entropy too.
+Dark energy, the mysterious force pushing the universe apart, makes up about 68% of everything.
+Dark matter can't be seen, but its gravity holds galaxies together.
+Without dark matter, galaxies would spin so fast they'd fly apart.

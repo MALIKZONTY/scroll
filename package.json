@@ -1,0 +1,10 @@
+{
+  "name": "connect",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-data.mjs",
+    "check": "node scripts/build-data.mjs --verbose",
+    "dev": "node scripts/build-data.mjs && node scripts/serve.mjs"
+  }
+}
